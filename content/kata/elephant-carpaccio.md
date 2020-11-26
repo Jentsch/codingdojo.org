@@ -51,6 +51,7 @@ Total price                                    XXXXXX
 
 
 | State | Tax rate |
+| ----- | -------- |
 | UT    | 6.85%    |
 | NV    | 8.00%    |
 | TX    | 6.25%    |
